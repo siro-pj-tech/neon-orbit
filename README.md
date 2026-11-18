@@ -8,6 +8,8 @@
 * **対応環境**: スマートフォン（縦長画面最適化） / PCブラウザ（レスポンシブ対応）
 * **技術構成**: Three.js (WebGL) + Tailwind CSS + Web Audio API
 
+[▶過去のバージョンはこちらから](https://siro-pj-tech.github.io/neon-orbit/Neon_Orbit.html)
+
 ---
 
 ## 🎮 ゲームルールと特徴
