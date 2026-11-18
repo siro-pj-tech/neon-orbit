@@ -51,6 +51,7 @@
 ```text
 neon-orbit-3d-overdrive/
 ├── index.html       # ゲーム本体
+├── Neon_Orbit.html　# クラシックスエディション（初期バージョン）
 ├── background.jpg   # 卓上ホログラム空間背景（2752x1536）
 ├── bgm.dat          # 難読化済みBGMデータ
 └── README.md        # 本説明書
