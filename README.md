@@ -49,7 +49,7 @@
 ## 📁 ファイル構成（GitHub Pages 公開用）
 
 ```text
-neon-orbit-3d-overdrive/
+neon-orbit/
 ├── index.html       # ゲーム本体
 ├── Neon_Orbit.html　# クラシックスエディション（初期バージョン）
 ├── background.jpg   # 卓上ホログラム空間背景（2752x1536）
